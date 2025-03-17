@@ -16,6 +16,7 @@ public class main {
                 motorArray.add(new StepperMotor(i));
             } catch (Exception e) {
                 System.out.println("Failed to create Motor " + (i));
+                e.printStackTrace();
             }
         }
     }
