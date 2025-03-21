@@ -1,3 +1,7 @@
+// Raphael
+// main.java
+// Main class
+
 import classes.StepperMotor;
 import com.phidget22.*;
 
