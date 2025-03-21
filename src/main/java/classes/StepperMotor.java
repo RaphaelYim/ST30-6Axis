@@ -1,3 +1,6 @@
+// Raphael
+// StepperMotor.java
+// Wrapper class for the stepper motors.
 package classes;
 
 import com.phidget22.PhidgetException;
